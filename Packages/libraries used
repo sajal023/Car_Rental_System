@@ -1,0 +1,4 @@
+Tkinter:- Python offers multiple options for developing GUI (Graphical User Interface). Out of all the GUI methods, tkinter is the most commonly used method. It is a standard Python interface to the Tk GUI toolkit shipped with Python. Python Tkinter is the fastest and easiest way to create GUI applications. Creating a GUI using Tkinter is an easy task.
+Tkinter messagebox:- MessageBox Widget is used to display the message boxes in the python applications. This module is used to display a message using provides a number of functions.
+                      Syntax:- <  messagebox.Function_Name(title, message [, options])  >
+Tkinter simpledialog:- The tkinter. simpledialog module contains convenience classes and functions for creating simple modal dialogs to get a value from the user. The above three functions provide dialogs that prompt the user to enter a value of the desired type. The base class for custom dialogs
